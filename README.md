@@ -1,0 +1,2 @@
+# barhome
+Settings in /home.
